@@ -515,7 +515,6 @@ h2 {
 
     .mobile-view {
         display: none;
-        margin-top: 20px;
         position: sticky;
         top: 10%;
         z-index: 100;
