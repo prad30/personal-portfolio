@@ -514,7 +514,7 @@ h2 {
     }
 
     .mobile-view {
-        display: block;
+        display: none;
         margin-top: 20px;
     }
 
