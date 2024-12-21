@@ -516,7 +516,8 @@ h2 {
     .mobile-view {
         display: none;
         position: sticky;
-        top: 10%;
+        padding: 10px 100px;
+        top: 6%;
         z-index: 100;
         background-color: white;
     }
@@ -538,7 +539,8 @@ h2 {
 
     hr {
         margin: 0px 20px;
-        top: 7.5%;
+        top: 7%;
+        z-index:110;
     }
 
     .intro-section {
