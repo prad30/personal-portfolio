@@ -558,6 +558,7 @@ h2 {
 
     .discription span img {
         width: 100px;
+        padding-right: 60px;
     }
 
     .skill-icons img {
@@ -568,6 +569,22 @@ h2 {
     .download-cv button {
         font-size: 20px;
         padding: 10px 20px;
+    }
+
+    .profile img {
+        display: none;
+    }
+
+    .section-title h1 {
+        font-size: 30px;
+    }
+
+    .section-title h2 {
+        font-size: 15px;
+    }
+
+    .section-title {
+        padding: 0px 10px 10px 25px;
     }
 
     .about-content {
