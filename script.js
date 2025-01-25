@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         downloadBtn.addEventListener('click', () => {
             const link = document.createElement('a');
-            link.href = 'asset/Resume-Pradeep.pdf'; 
+            link.href = 'asset/Pradeep-Resume.pdf'; 
             link.download = 'Pradeep_Resume.pdf'; 
             link.click();
         });
